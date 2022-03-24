@@ -24,7 +24,7 @@ I've developed some famous WordPress plugins, here are some showcase
 [![banner-1544x500](https://user-images.githubusercontent.com/48084051/158990271-39b1d217-516b-41d2-aee9-ebfa478ea09b.png)](https://wordpress.org/plugins/editorplus/)
 [![banner-1544x500 (1)](https://user-images.githubusercontent.com/48084051/158991206-39cbf31a-baf2-4d87-b81a-055c490b14ab.png)](https://wordpress.org/plugins/forms-gutenberg/)
 
-## Get Connnected
+## Get Connected
 Twitter: https://twitter.com/Zafar_kamal24
 
 Facebook: https://www.facebook.com/zafar.kamal123
