@@ -27,16 +27,15 @@ I've developed and worked on some famous WordPress plugins
 | [![banner-1544x500](https://user-images.githubusercontent.com/48084051/158990271-39b1d217-516b-41d2-aee9-ebfa478ea09b.png)](https://wordpress.org/plugins/editorplus/) | [![banner-1544x500 (1)](https://user-images.githubusercontent.com/48084051/158991206-39cbf31a-baf2-4d87-b81a-055c490b14ab.png)](https://wordpress.org/plugins/forms-gutenberg/) |
 | [![banner-772x250](https://user-images.githubusercontent.com/48084051/159905049-0b1254ef-d4ec-4597-b5ef-71755d41a414.jpeg)](https://wordpress.org/plugins/block-options/) | [![banner-772x250](https://user-images.githubusercontent.com/48084051/159905503-ada55021-e6ad-41ab-af90-9e2f9dadeabe.png)](https://wordpress.org/plugins/block-slider/) |
 
-
-
-
-
-
-
 ## Get Connected
 Twitter: https://twitter.com/Zafar_kamal24
 
 Facebook: https://www.facebook.com/zafar.kamal123
 
 Instagram: https://www.instagram.com/zafar_kamal123/
+
+## Support
+
+[![download-assets-1](https://user-images.githubusercontent.com/48084051/206910179-5e94fcf7-449f-45de-9197-bcd8129ca373.svg)](https://www.buymeacoffee.com/zafarKamal)
+
 
