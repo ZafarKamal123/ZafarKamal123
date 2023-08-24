@@ -1,34 +1,50 @@
-## 😎 Hey! Nice to see you.
+# 👋 Hey, Want to know me?
 
-Welcome to my github profile, I'm **Zafar**, A full stack developer from 🇵🇰 **Pakistan**, **Karachi**.
+Welcome to my GitHub profile! I'm **Zafar**, a passionate full stack developer from 🇵🇰 **Pakistan**.
 
-## What are my expertise?
+## 👨🏻‍💻 Things i can code with
 
-Here are things that i can code with
+Here's what I bring to the digital table:
 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/48084051/158988004-e3c7680d-6ba8-4087-b13b-631b642b9d01.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/48084051/158988073-7f37bb06-594a-4c9b-8908-f8a6ff035f5f.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875625f416374696f6e732d3230383846463f7374796c653d666c61742d737175617265266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/48084051/158988116-098a7015-a10d-4292-ab6f-5ffcc148e71d.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/48084051/158988141-af626c3a-37fc-487f-bad5-b0859654bdbe.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/48084051/158988190-a622a8f6-5294-4373-9785-648d8f9a392b.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/48084051/158988241-f47533b0-6740-4123-b24f-b05c9334c26e.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/48084051/158988288-ec1a0de4-64b7-4366-8432-cae49efb71f0.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/48084051/158988322-c9cd2b1f-151b-48e9-b29b-1ea6a41a157b.svg)
-![Icon (2)](https://user-images.githubusercontent.com/48084051/158989909-8f3060d4-81d3-4049-8ae9-925c583889ad.svg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48084051/158988004-e3c7680d-6ba8-4087-b13b-631b642b9d01.svg" alt="React" height="50" />
+  <img src="https://user-images.githubusercontent.com/48084051/158988073-7f37bb06-594a-4c9b-8908-f8a6ff035f5f.svg" alt="Webpack" height="50" />
+  <img src="https://user-images.githubusercontent.com/48084051/158988116-098a7015-a10d-4292-ab6f-5ffcc148e71d.svg" alt="GraphQL" height="50" />
+  <img src="https://user-images.githubusercontent.com/48084051/158988141-af626c3a-37fc-487f-bad5-b0859654bdbe.svg" alt="TypeScript" height="50" />
+  <img src="https://user-images.githubusercontent.com/48084051/158988190-a622a8f6-5294-4373-9785-648d8f9a392b.svg" alt="Redux" height="50" />
+  <img src="https://user-images.githubusercontent.com/48084051/158988241-f47533b0-6740-4123-b24f-b05c9334c26e.svg" alt="Git" height="50" />
+  <img src="https://user-images.githubusercontent.com/48084051/158988288-ec1a0de4-64b7-4366-8432-cae49efb71f0.svg" alt="NPM" height="50" />
+  <img src="https://user-images.githubusercontent.com/48084051/158988322-c9cd2b1f-151b-48e9-b29b-1ea6a41a157b.svg" alt="Node.js" height="50" />
+  <img src="https://user-images.githubusercontent.com/48084051/158989909-8f3060d4-81d3-4049-8ae9-925c583889ad.svg" alt="Visual Studio Code" height="50" />
+</p>
 
+## 🌟 Portfolio Highlights
 
-## Showcase
+Here are some of the projects i've contributed to:
 
-I've developed and worked on some famous WordPress plugins
+<div align="full">
+  <a href="https://wordpress.org/plugins/editorplus/">
+    <img src="https://user-images.githubusercontent.com/48084051/158990271-39b1d217-516b-41d2-aee9-ebfa478ea09b.png" alt="Editor Plus WordPress Plugin" width="500" />
+  </a>
+  <a href="https://wordpress.org/plugins/forms-gutenberg/">
+    <img src="https://user-images.githubusercontent.com/48084051/158991206-39cbf31a-baf2-4d87-b81a-055c490b14ab.png" alt="Forms Gutenberg WordPress Plugin" width="500" />
+  </a>
+</div>
+<div align="full">
+  <a href="https://wordpress.org/plugins/block-options/">
+    <img src="https://user-images.githubusercontent.com/48084051/159905049-0b1254ef-d4ec-4597-b5ef-71755d41a414.jpeg" alt="Block Options WordPress Plugin" width="500" />
+  </a>
+  <a href="https://wordpress.org/plugins/block-slider/">
+    <img src="https://user-images.githubusercontent.com/48084051/159905503-ada55021-e6ad-41ab-af90-9e2f9dadeabe.png" alt="Block Slider WordPress Plugin" width="500" />
+  </a>
+</div>
 
+## ☕ Let's Connect
 
-|  |  |
-|--|--|
-| [![banner-1544x500](https://user-images.githubusercontent.com/48084051/158990271-39b1d217-516b-41d2-aee9-ebfa478ea09b.png)](https://wordpress.org/plugins/editorplus/) | [![banner-1544x500 (1)](https://user-images.githubusercontent.com/48084051/158991206-39cbf31a-baf2-4d87-b81a-055c490b14ab.png)](https://wordpress.org/plugins/forms-gutenberg/) |
-| [![banner-772x250](https://user-images.githubusercontent.com/48084051/159905049-0b1254ef-d4ec-4597-b5ef-71755d41a414.jpeg)](https://wordpress.org/plugins/block-options/) | [![banner-772x250](https://user-images.githubusercontent.com/48084051/159905503-ada55021-e6ad-41ab-af90-9e2f9dadeabe.png)](https://wordpress.org/plugins/block-slider/) |
+If my work has inspired you or brought value, consider supporting me with a coffee:
 
-## Support
-
-[![download-assets-1](https://user-images.githubusercontent.com/48084051/206910179-5e94fcf7-449f-45de-9197-bcd8129ca373.svg)](https://www.buymeacoffee.com/zafarKamal)
-
-
+<p align="center">
+  <a href="https://www.buymeacoffee.com/zafarKamal">
+    <img src="https://user-images.githubusercontent.com/48084051/206910179-5e94fcf7-449f-45de-9197-bcd8129ca373.svg" alt="Buy Me a Coffee" width="800" />
+  </a>
+</p>
