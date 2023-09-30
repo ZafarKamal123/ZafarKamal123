@@ -24,22 +24,22 @@ Here are some of the projects i've contributed to:
 
 <div align="full">
   <a href="https://wordpress.org/plugins/editorplus/">
-    <img src="https://user-images.githubusercontent.com/48084051/158990271-39b1d217-516b-41d2-aee9-ebfa478ea09b.png" alt="Editor Plus WordPress Plugin" width="500" />
+    <img src="https://user-images.githubusercontent.com/48084051/158990271-39b1d217-516b-41d2-aee9-ebfa478ea09b.png" alt="Editor Plus WordPress Plugin"/>
   </a>
   <a href="https://wordpress.org/plugins/forms-gutenberg/">
-    <img src="https://user-images.githubusercontent.com/48084051/158991206-39cbf31a-baf2-4d87-b81a-055c490b14ab.png" alt="Forms Gutenberg WordPress Plugin" width="500" />
+    <img src="https://user-images.githubusercontent.com/48084051/158991206-39cbf31a-baf2-4d87-b81a-055c490b14ab.png" alt="Forms Gutenberg WordPress Plugin" />
   </a>
 </div>
 <div align="full">
   <a href="https://wordpress.org/plugins/block-options/">
-    <img src="https://user-images.githubusercontent.com/48084051/159905049-0b1254ef-d4ec-4597-b5ef-71755d41a414.jpeg" alt="Block Options WordPress Plugin" width="500" />
+    <img src="https://user-images.githubusercontent.com/48084051/159905049-0b1254ef-d4ec-4597-b5ef-71755d41a414.jpeg" alt="Block Options WordPress Plugin" />
   </a>
   <a href="https://wordpress.org/plugins/block-slider/">
-    <img src="https://user-images.githubusercontent.com/48084051/159905503-ada55021-e6ad-41ab-af90-9e2f9dadeabe.png" alt="Block Slider WordPress Plugin" width="500" />
+    <img src="https://user-images.githubusercontent.com/48084051/159905503-ada55021-e6ad-41ab-af90-9e2f9dadeabe.png" alt="Block Slider WordPress Plugin" />
   </a>
 </div>
 
-## ☕ Let's Connect
+## ☕ Support Me
 
 If my work has inspired you or brought value, consider supporting me with a coffee:
 
