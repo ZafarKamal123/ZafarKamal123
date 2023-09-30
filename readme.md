@@ -32,10 +32,10 @@ Here are some of the projects i've contributed to:
 </div>
 <div align="full">
   <a href="https://wordpress.org/plugins/block-options/">
-    <img src="https://user-images.githubusercontent.com/48084051/159905049-0b1254ef-d4ec-4597-b5ef-71755d41a414.jpeg" alt="Block Options WordPress Plugin" />
+    <img src="https://user-images.githubusercontent.com/48084051/159905049-0b1254ef-d4ec-4597-b5ef-71755d41a414.jpeg" alt="Block Options WordPress Plugin" width="100%" />
   </a>
   <a href="https://wordpress.org/plugins/block-slider/">
-    <img src="https://user-images.githubusercontent.com/48084051/159905503-ada55021-e6ad-41ab-af90-9e2f9dadeabe.png" alt="Block Slider WordPress Plugin" />
+    <img src="https://user-images.githubusercontent.com/48084051/159905503-ada55021-e6ad-41ab-af90-9e2f9dadeabe.png" alt="Block Slider WordPress Plugin" width="100%" />
   </a>
 </div>
 
